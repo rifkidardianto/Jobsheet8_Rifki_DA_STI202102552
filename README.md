@@ -8,5 +8,5 @@ Tugas   : Assignment 8
 
 
 
-![image](screenshot/screenshot1.png)
-![image](screenshot/screenshot2.png)
+![image](screenshot/Screenshot1.png)
+![image](screenshot/Screenshot2.png)
